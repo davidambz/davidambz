@@ -8,7 +8,6 @@ Meu nome é David Spader Ambrozio, tenho 24 anos, natural de Bombinhas-SC Brasil
 
 * HTML
 * Css
-* Bootstrap
 * Javascript
 * Typescript
 * React
@@ -19,8 +18,6 @@ Meu nome é David Spader Ambrozio, tenho 24 anos, natural de Bombinhas-SC Brasil
 * Magento 
 * Laravel
 * Banco de dados
-* Mongodb 
-* Linux
 
 
-**Estou buscando oportunidades na área, preferencialmente com PHP/Laravel.  👊**
+**Estou buscando oportunidades na área, preferencialmente com PHP.  👊**
