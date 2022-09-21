@@ -20,4 +20,4 @@ Meu nome é David Spader Ambrozio, tenho 24 anos, natural de Bombinhas-SC Brasil
 * Banco de dados
 
 
-**Estou buscando oportunidades na área, preferencialmente com PHP.  👊**
+**Estou buscando oportunidades na área, preferencialmente com PHP e Laravel.  👊**
