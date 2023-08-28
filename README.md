@@ -2,7 +2,7 @@
 
 ### Informações sobre mim:
 
-Meu nome é David Spader Ambrozio, tenho 24 anos, natural de Bombinhas-SC Brasil, sou desenvolvedor de software e tecnólogo em Sistemas para Internet formado pela Universidade do Vale do Itajaí (UNIVALI).
+Meu nome é David Spader Ambrozio, tenho 25 anos, natural de Bombinhas-SC Brasil, sou desenvolvedor de software e tecnólogo em Sistemas para Internet formado pela Universidade do Vale do Itajaí (UNIVALI).
 
 ### Tecnologias que possuo experiencia:
 
@@ -20,4 +20,4 @@ Meu nome é David Spader Ambrozio, tenho 24 anos, natural de Bombinhas-SC Brasil
 * Banco de dados
 
 
-**Estou buscando oportunidades na área, preferencialmente com PHP e Laravel.  👊**
+**Estou buscando oportunidades na área 👊**
