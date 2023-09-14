@@ -6,18 +6,16 @@ Meu nome é David Spader Ambrozio, tenho 25 anos, natural de Bombinhas-SC Brasil
 
 ### Tecnologias que possuo experiencia:
 
-* HTML
-* Css
+* Python
+* PHP
+* Magento
+* Laravel
 * Javascript
 * Typescript
 * React
-* Nodejs 
-* Ruby on Rails 
-* Docker 
-* PHP
-* Magento 
-* Laravel
+* NodeJS
 * Banco de dados
+* Linux
 
 
 **Estou buscando oportunidades na área 👊**
