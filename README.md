@@ -1,5 +1,4 @@
-## Opa! Seja bem vindo ao meu GitHub 😁
-
+## Opa! Seja bem vindo ao meu GitHub
 ### Informações sobre mim:
 
 Meu nome é David Spader Ambrozio, tenho 25 anos, natural de Bombinhas-SC Brasil, sou desenvolvedor de software e tecnólogo em Sistemas para Internet formado pela Universidade do Vale do Itajaí (UNIVALI).
