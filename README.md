@@ -1,6 +1,6 @@
 # Hello, I'm David
 
-Welcome to my GitHub profile! My name is David Spader Ambrozio, I'm 25 years old, born in Bombinhas, Santa Catarina, Brazil. I'm a software developer and a technologist in Internet Systems, graduated from the Universidade do Vale do Itajaí (UNIVALI).
+Welcome to my GitHub profile! My name is David Spader Ambrozio, I'm 26 years old, born in Bombinhas, Santa Catarina, Brazil. I'm a software developer and a technologist in Internet Systems, graduated from the Universidade do Vale do Itajaí (UNIVALI).
 With experience in web development, I have worked with technologies such as PHP, Javascript, Magento, and Ruby on Rails, developing and maintaining projects. Now I am seeking opportunities to work as a backend developer.
 
 - 🔭 I'm currently seeking new opportunities.
