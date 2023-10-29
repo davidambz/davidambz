@@ -5,7 +5,7 @@ With experience in web development, I have worked with technologies such as PHP,
 
 - 🔭 I'm currently seeking new opportunities.
 - 🌱 I'm studying Python.
-- 💬 Ask me about Python, PHP, Node.js, JavaScript, linux and databases.
+- 💬 Ask me about Python, PHP, NodeJS, JavaScript, linux and databases.
 - 📫 How to reach me: [davidambroziodev@gmail.com](mailto:davidambroziodev@gmail.com).
 
 ## Featured Projects
@@ -24,6 +24,7 @@ Here are some of my projects that you can check out:
 
 - [LinkedIn](https://www.linkedin.com/in/david-spader-ambrozio-2b4139124/)
 - [Twitter](https://twitter.com/xsplsh)
+- [Instagram](https://www.instagram.com/davidspader)
 - [Email](mailto:davidambroziodev@gmail.com)
 - [My website](https://davidspader.github.io/)
 
