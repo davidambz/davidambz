@@ -8,14 +8,6 @@ With experience in web development, I have worked with technologies such as PHP,
 - 💬 Ask me about Python, PHP, NodeJS, JavaScript, linux and databases.
 - 📫 How to reach me: [davidambroziodev@gmail.com](mailto:davidambroziodev@gmail.com).
 
-## Featured Projects
-
-Here are some of my projects that you can check out:
-
-- [Suas Reservas](https://suasreservas-production.up.railway.app/)
-- [PDF Manager](https://github.com/davidspader/pdf-manager)
-- [Image Editor](https://github.com/davidspader/image-editor)
-
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidspader&show_icons=true&theme=tokyonight)](https://github.com/davidspader)
