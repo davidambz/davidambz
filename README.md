@@ -16,7 +16,7 @@ With experience in web development, I have worked with technologies such as PHP,
 
 - [LinkedIn](https://www.linkedin.com/in/david-spader-ambrozio-2b4139124/)
 - [Twitter](https://twitter.com/xsplsh)
-- [Instagram](https://www.instagram.com/davidspader)
+- [Instagram](https://www.instagram.com/davidambz)
 - [Email](mailto:davidambroziodev@gmail.com)
 - [My website](https://davidspader.github.io/)
 
