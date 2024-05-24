@@ -4,8 +4,6 @@ Welcome to my GitHub profile! My name is David Spader Ambrozio, I'm 26 years old
 With experience in web development, I have worked with technologies such as PHP, Javascript, Magento, and Ruby on Rails, developing and maintaining projects. Now I am seeking opportunities to work as a backend developer.
 
 - 🔭 I'm currently seeking new opportunities.
-- 🌱 I'm studying Python.
-- 💬 Ask me about Python, PHP, NodeJS, JavaScript, linux and databases.
 - 📫 How to reach me: [davidambroziodev@gmail.com](mailto:davidambroziodev@gmail.com).
 
 ## GitHub Stats
