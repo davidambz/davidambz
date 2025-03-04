@@ -8,7 +8,7 @@ With experience in web development, I have worked with technologies such as PHP,
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidspader&show_icons=true&theme=tokyonight)](https://github.com/davidspader)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidambz&show_icons=true&theme=tokyonight)](https://github.com/davidspader)
 
 ## Get in Touch
 
